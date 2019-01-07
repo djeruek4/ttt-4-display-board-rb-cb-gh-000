@@ -10,3 +10,4 @@ def display_board(board = [" ", " ", " ", " ", " ", " ", " ", " ", " "])
 end
 
 board = ["S", "A"]
+display_board()
