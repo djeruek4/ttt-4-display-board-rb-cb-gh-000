@@ -9,5 +9,5 @@ def display_board(board = [" ", " ", " ", " ", " ", " ", " ", " ", " "])
   puts " #{board[6]} | #{board[7]} | #{board[8]} "
 end
 
-board = ["S", "A"]
+board[0] = ["S"]
 display_board()
